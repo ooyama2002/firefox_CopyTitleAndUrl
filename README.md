@@ -2,6 +2,9 @@
 `CopyTitleAndUrl`はfirefox用のアドオンです。  
 アクティブなタブのタイトルとURLをmarkdown、pukiwiki、html形式でクリップボードにコピーします。
 
+## ダウンロードページ
+[CopyTitleAndUrl – 🦊 Firefox (ja) 向け拡張機能を入手](https://addons.mozilla.org/ja/firefox/addon/copytitleandurl/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 ## 使い方
 ![README_image_01](https://github.com/user-attachments/assets/79783552-26e2-4425-9e25-f8e818f4d8a9)  
 以下のようにクリップボードにコピーされます。  
